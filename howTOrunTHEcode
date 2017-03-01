@@ -1,0 +1,7 @@
+First download the main_code folder.
+And then open main_code.m file in matlab.
+In 3rd and 4th line of code, there is path of two input image.
+Change the path by the image path of input_image.jpg and reference_image.jpg.
+For example, In my computer image path was E:\projects\real length of pen\input_image.jpg
+After changing the path, simply run the program. After that you will get length of pen in command terminal (as shown in image output_image.png).
+And you will get two output photo in which the initial and final co-ordinate of pen and reference object is marked by a color.
